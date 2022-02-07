@@ -4,4 +4,4 @@
 
 printfn "Hello world from F#"
 
-(***include - fsi - output*** )
+(***include - fsi - output***)
